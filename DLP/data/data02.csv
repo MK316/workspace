@@ -1,0 +1,160 @@
+﻿Q1,Q2,Major,DL_level,Concept,Current_DL,Coding_LG
+No,1st,English Language & Literature,1,"A1, A3, A4",Beginner,6
+No,3rd,English Language & Literature,3,A1,Intermediate,4
+No,1st,English Language & Literature,3,"A2, A3",Beginner,4
+No,3rd,English Language & Literature,4,"A1, A2, A3, A4, A5, A6",Beginner,4
+No,1st,English Language & Literature,3,A3,Intermediate,3
+No,1st,English Language & Literature,3,"A2, A4, A6",Beginner,4
+No,1st,English Language & Literature,2,A6,Intermediate,5
+No,3rd,English Language & Literature,3,A6,Beginner,4
+No,1st,English Language & Literature,3,"A2, A3",Intermediate,5
+No,1st,English Language & Literature,3,"A2, A4, A5",Beginner,4
+No,2nd,English Language & Literature,3,"A4, A5, A6",Beginner,3
+No,1st,English Language & Literature,5,A3,Intermediate,5
+No,1st,English Language & Literature,3,"A1, A2, A4",Beginner,5
+No,1st,English Language & Literature,3,A1,Beginner,5
+No,1st,English Language & Literature,4,A3,Intermediate,2
+No,1st,English Language & Literature,1,"A2, A3",Beginner,5
+No,1st,English Language & Literature,2,A2,Intermediate,3
+No,1st,English Language & Literature,3,"A4, A6",Intermediate,6
+No,1st,English Language & Literature,3,A3,Beginner,6
+No,1st,English Language & Literature,4,"A2, A6",Intermediate,3
+No,1st,English Language & Literature,2,A3,Beginner,5
+No,1st,English Language & Literature,3,"A2, A5",Intermediate,4
+No,1st,English Language & Literature,3,"A3, A4, A6",Beginner,5
+No,4th,English Language & Literature,4,"A4, A6",Advanced,5
+No,2nd,English Language & Literature,3,"A1, A4, A6",Intermediate,4
+No,1st,English Language & Literature,4,"A1, A4",Intermediate,5
+No,1st,English Language & Literature,2,"A4, A6",Beginner,6
+No,1st,English Language & Literature,3,A3,Intermediate,4
+No,3rd,English Language & Literature,4,"A1, A2, A3, A4, A5, A6",Intermediate,4
+No,1st,English Language & Literature,4,A2,Intermediate,5
+No,1st,English Language & Literature,2,A1,Beginner,2
+No,1st,English Language & Literature,4,A5,Beginner,5
+No,1st,English Language & Literature,4,"A1, A2",Intermediate,2
+No,3rd,English Language & Literature,3,A4,Intermediate,4
+No,1st,English Language & Literature,3,"A1, A3, A5",Intermediate,5
+No,1st,English Language & Literature,3,"A4, A6",Intermediate,6
+No,1st,English Language & Literature,5,A6,Beginner,5
+No,4th,English Language & Literature,3,"A1, A2, A4, A6",Advanced,3
+No,1st,English Language & Literature,4,"A1, A4, A6",Beginner,4
+No,2nd,English Language & Literature,3,"A4, A6",Beginner,5
+No,1st,English Language & Literature,3,"A4, A6",Beginner,4
+No,1st,English Language & Literature,3,A6,Beginner,3
+No,1st,English Language & Literature,3,"A2, A3, A5",Intermediate,6
+No,1st,English Language & Literature,4,"A4, A5",Advanced,2
+No,1st,English Language & Literature,2,A1,Intermediate,4
+NO,1st,English Language & Literature,2,A1,Intermediate,3
+NO,1st,English Language & Literature,3,"A2, A5, A6",Intermediate,5
+YES,3rd,English Language & Literature,3,A3,Intermediate,2
+NO,1st,English Education,3,A1,Intermediate,3
+YES,2nd,English Language & Literature,3,A4,Beginner,4
+YES,2nd,English Language & Literature,2,"A1, A4",Intermediate,3
+YES,2nd,English Language & Literature,3,A6,Beginner,6
+YES,2nd,English Language & Literature,3,"A4, A6",Beginner,1
+YES,3rd,English Language & Literature,3,"A1, A4",Beginner,5
+YES,2nd,English Language & Literature,4,A4,Beginner,5
+YES,2nd,English Language & Literature,4,"A1, A3, A6",Beginner,5
+YES,2nd,English Language & Literature,3,"A4, A6",Beginner,5
+YES,3rd,English Language & Literature,4,"A1, A2",Intermediate,5
+YES,2nd,English Language & Literature,4,"A1, A5",Advanced,6
+YES,4th,English Language & Literature,4,"A2, A3",Advanced,5
+YES,3rd,English Language & Literature,3,"A1, A2, A3, A4, A5, A6",Beginner,6
+YES,4th,English Language & Literature,4,"A1, A4, A6",Beginner,5
+YES,4th,English Language & Literature,4,A6,Beginner,4
+YES,3rd,English Language & Literature,4,"A4, A5, A6",Intermediate,2
+YES,2nd,English Language & Literature,4,A5,Advanced,5
+YES,2nd,English Language & Literature,3,"A1, A6",Beginner,5
+YES,2nd,English Language & Literature,3,A6,Beginner,4
+YES,2nd,English Language & Literature,3,"A4, A6",Intermediate,5
+YES,4th,English Language & Literature,4,"A2, A6",Advanced,6
+YES,2nd,English Language & Literature,3,"A4, A6",Beginner,4
+YES,2nd,English Language & Literature,4,"A3, A4, A6",Beginner,4
+YES,2nd,English Language & Literature,3,"A4, A6",Beginner,6
+YES,3rd,English Language & Literature,4,A2,Intermediate,5
+YES,2nd,English Language & Literature,3,"A4, A6",Beginner,5
+YES,2nd,English Language & Literature,2,"A1, A3, A4, A6",Beginner,3
+YES,2nd,English Language & Literature,3,A3,Intermediate,3
+YES,4th,English Language & Literature,5,"A5, A6",Intermediate,5
+YES,Graduate,English Education,4,"A4, A6",Intermediate,5
+YES,Graduate,English Education,5,"A1, A2, A4",Beginner,5
+NO,Graduate,English Education,1,"A1, A3",Beginner,4
+NO,Graduate,English Education,4,"A5, A6",Beginner,3
+NO,2nd,English Education,4,A2,Advanced,5
+YES,1st,English Education,4,"A4, A6",Intermediate,2
+NO,3rd,English Education,5,"A2, A4, A6",Intermediate,5
+NO,Graduate,English Education,4,A2,Advanced,5
+NO,Graduate,English Education,4,"A1, A2, A4",Intermediate,5
+NO,Graduate,English Education,4,A5,Advanced,6
+NO,Graduate,English Education,5,A4,Intermediate,5
+YES,1st,English Education,5,"A1, A2, A3, A4, A5, A6",Advanced,6
+YES,3rd,English Education,4,A2,Advanced,4
+NO,4th,English Language & Literature,4,"A1, A2, A3, A4, A5",Advanced,4
+YES,Graduate,English Education,6,"A2, A6",Intermediate,6
+NO,Graduate,English Education,4,"A4, A5, A6",Beginner,6
+NO,Graduate,English Education,4,"A4, A5",Beginner,3
+NO,Graduate,English Education,6,"A2, A5",Advanced,6
+YES,Graduate,English Education,4,"A1, A4, A6",Intermediate,5
+NO,1st,English Language & Literature,3,"A1, A2, A4",Beginner,5
+YES,4th,English Language & Literature,3,A4,Beginner,4
+NO,2nd,English Language & Literature,3,"A1, A4",Beginner,6
+YES,1st,English Education,3,A6,Intermediate,3
+NO,Graduate,English Education,6,"A1, A2, A4",Advanced,3
+YES,1st,English Language & Literature,4,A6,Beginner,6
+NO,Graduate,English Education,4,"A1, A2, A3, A4, A5, A6",Advanced,6
+YES,2nd,English Language & Literature,3,"A1, A4, A6",Intermediate,5
+NO,Graduate,English Education,4,"A3, A4, A6",Intermediate,6
+NO,Graduate,English Education,5,"A2, A4, A6",Intermediate,5
+YES,2nd,English Education,5,"A2, A6",Intermediate,5
+YES,2nd,English Education,6,A2,Beginner,6
+YES,2nd,English Education,2,A2,Intermediate,2
+YES,2nd,English Education,4,A6,Intermediate,4
+YES,2nd,English Education,5,A4,Beginner,5
+YES,2nd,English Education,3,A2,Intermediate,3
+YES,2nd,English Education,4,A3,Intermediate,4
+YES,4th,English Education,5,A6,Intermediate,5
+YES,2nd,English Education,5,A2,Intermediate,5
+YES,2nd,English Education,5,"A2, A3",Intermediate,5
+YES,2nd,English Education,5,A4,Intermediate,5
+YES,2nd,English Education,5,A2,Intermediate,5
+YES,2nd,English Education,5,A2,Intermediate,5
+YES,2nd,English Education,4,A4,Advanced,4
+YES,2nd,English Education,6,"A1, A2, A4, A5",Advanced,6
+YES,2nd,English Education,5,A2,Intermediate,5
+YES,2nd,English Education,5,"A5, A6",Intermediate,5
+YES,2nd,English Education,2,A2,Intermediate,2
+YES,2nd,English Education,4,"A4, A6",Intermediate,4
+YES,2nd,English Education,5,"A2, A3, A4",Intermediate,5
+YES,2nd,English Education,5,A6,Intermediate,5
+YES,2nd,English Education,5,A6,Beginner,5
+YES,2nd,English Education,5,"A4, A6",Intermediate,5
+YES,2nd,English Education,5,A6,Intermediate,5
+YES,2nd,English Education,5,A5,Advanced,5
+YES,2nd,English Education,4,A6,Beginner,4
+YES,2nd,English Education,5,"A2, A3, A5",Advanced,5
+YES,2nd,English Education,5,"A4, A5, A6",Advanced,5
+YES,2nd,English Education,4,A2,Intermediate,4
+YES,2nd,English Education,5,A6,Beginner,5
+YES,2nd,English Education,3,A2,Intermediate,3
+No,Graduate,English Education,4,A6,Intermediate,5
+No,Graduate,English Education,4,A2,Intermediate,5
+No,Graduate,English Education,5,"A2, A3",Advanced,5
+No,3rd,English Education,3,A5,Intermediate,5
+No,1st,English Education,3,A1,Beginner,4
+No,1st,English Education,5,A4,Advanced,2
+No,1st,English Education,1,A3,Intermediate,6
+No,1st,English Education,3,"A1, A2, A3, A4, A5, A6",Advanced,5
+No,1st,English Education,1,"A1, A2, A3, A4, A5, A6",Beginner,4
+No,1st,English Education,3,A2,Beginner,5
+No,1st,English Education,2,A2,Intermediate,5
+No,1st,English Education,4,A2,Beginner,4
+No,1st,English Education,1,A4,Beginner,4
+No,1st,English Education,4,A6,Beginner,3
+No,1st,English Education,3,A4,Beginner,5
+No,1st,English Education,2,A2,Intermediate,2
+No,1st,English Education,1,"A2, A4, A5",Intermediate,4
+No,1st,English Education,2,A2,Advanced,3
+No,1st,English Education,1,A2,Beginner,4
+No,1st,English Education,2,A6,Beginner,3
+No,1st,English Education,1,A6,Beginner,6
+No,1st,English Education,2,A6,Beginner,4
